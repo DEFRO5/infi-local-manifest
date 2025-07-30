@@ -6,9 +6,9 @@
     <!-- Device tree -->
     <project
         path="device/realme/lunaa"
-        name="device_tree_realme_lunaa"
+        name="platform_device_realme_lunaa_infi"
         remote="DEFR05"
-        revision="lineage-22.2-infi" />
+        revision="sixteen" />
 
     <!-- Device tree common -->
     <project
